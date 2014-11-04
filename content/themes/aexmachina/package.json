@@ -1,0 +1,13 @@
+{
+  "name": "aexmachina-theme",
+  "version": "0.1.0",
+  "description": "The Ghost theme for my blog",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-sass": "~0.7.0",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-livereload": "~0.1.2",
+    "lodash": "~2.2.1"
+  }
+}
